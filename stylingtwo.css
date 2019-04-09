@@ -1,0 +1,82 @@
+:root {
+ --main-bg-color: cyan; 
+ --main-txt-color: blue; red; 
+}
+
+body {
+   background-color: var(--main-bg-color);
+}
+
+h1 {
+  text-align: center;
+  height: 120px;
+}  
+
+
+h1, h2, p {
+ color: var(--main-txt-color);
+} 
+
+
+a {
+  text-decoration: none;
+}
+
+
+img{
+  float: left;
+}
+
+ul {
+    list-style-image: url('ballsmall.png');
+
+}
+
+a:link {
+      color: blue;
+   
+}
+a:hover {
+     background-color: yellow;
+}
+
+
+a:link {
+     color: blue;
+}
+
+a:visited {
+    color: red;
+}
+
+
+<h1>ABC Volleyball League</h1>
+
+<h2>Created for fun and for learning volleyball</h2>
+<ul>
+  
+<li><a href="index.html" >Home</a></li>
+ 
+<li><a href="members.html">Our Members</a></li>
+  
+<li><a href="https://www.facebook.com" >Facebook Page</a></li>
+
+</ul>
+
+<p>This is our league page. 
+Hope you enjoy what our
+<a href="members.html">Members</a> have to offer!</p>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
