@@ -1,0 +1,60 @@
+body {
+	background: #f8f8f8;
+	margin: 0;
+}
+h1, address, footer {
+	color: 	#666666;
+}
+.wrapper {
+	background: #f8f8f8;
+	width: 80%;
+	min-width: 60em;
+    margin: auto;
+    box-shadow: 0 0 1em #000;
+    border:.063em solid #000;
+}
+a:link {
+	color: #00abff;
+}
+a:visited {
+	color: red;
+}
+a:hover {
+    color: #00ffdf;
+}
+#mypicture {
+	width: 80%;
+}
+header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: #f8f8f8;
+  margin: auto;
+}
+
+.wrapper>section {
+  background-color: #f8f8f8;
+  width: 80%;
+  margin: 0;
+  padding-left: 2em;
+}
+#exe1 {
+	width: 90%;
+}
+#exe2 {
+	width: 90%;
+}
+#exe3 {
+	width: 90%;
+}
+iframe {
+	width: 90%;
+}
+section {
+	width: 80%;
+}
